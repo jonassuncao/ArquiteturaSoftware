@@ -1,7 +1,7 @@
 
 # Projeto Arquitetura de Software!
 
-**Trabalho - Arquiteturade Software**
+**Trabalho - Arquitetura de Software**
 >Software: **PAC** 
 
 
